@@ -131,3 +131,11 @@ button {
   font-weight: 700;
   color: #ff7979;
 }
+.form__try:hover {
+  background: #42368a;
+  transition: .5s;
+}
+button:hover{
+  background: #2d996a;
+  transition: .5s;
+}
