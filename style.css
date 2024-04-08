@@ -44,7 +44,6 @@ body {
   align-self: center;
 }
 .input {
-  font-family: inherit;
   flex-direction: column;
   width: 540px;
   height: 475px;
@@ -80,6 +79,7 @@ body {
   padding-right: 40px;
 }
 input {
+  font-family: inherit;
   background: #ffffff;
   border: 1px solid #dedede;
   border-radius: 5px;
